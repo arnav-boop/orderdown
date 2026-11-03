@@ -1,0 +1,6 @@
+# Exclude development files as requested
+order down.py
+Untitled-1.py
+.wakatime-project
+__pycache__/
+*.pyc
